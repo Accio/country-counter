@@ -1,0 +1,14 @@
+	Country	Count	Flag	Code	FlagFiles
+2	Germany	7	https://restcountries.eu/data/deu.svg	DEU	./figure/deu.svg
+1	France	4	https://restcountries.eu/data/fra.svg	FRA	./figure/fra.svg
+6	Switzerland	3	https://restcountries.eu/data/che.svg	CHE	./figure/che.svg
+3	Russian Federation	2	https://restcountries.eu/data/rus.svg	RUS	./figure/rus.svg
+8	Spain	2	https://restcountries.eu/data/esp.svg	ESP	./figure/esp.svg
+9	Italy	2	https://restcountries.eu/data/ita.svg	ITA	./figure/ita.svg
+10	Canada	2	https://restcountries.eu/data/can.svg	CAN	./figure/can.svg
+12	China	2	https://restcountries.eu/data/chn.svg	CHN	./figure/chn.svg
+4	Hungary	1	https://restcountries.eu/data/hun.svg	HUN	./figure/hun.svg
+5	Malaysia	1	https://restcountries.eu/data/mys.svg	MYS	./figure/mys.svg
+7	Ukraine	1	https://restcountries.eu/data/ukr.svg	UKR	./figure/ukr.svg
+11	Greece	1	https://restcountries.eu/data/grc.svg	GRC	./figure/grc.svg
+13	Serbia	1	https://restcountries.eu/data/srb.svg	SRB	./figure/srb.svg
